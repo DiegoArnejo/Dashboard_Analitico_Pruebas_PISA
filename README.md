@@ -59,4 +59,4 @@ Profesor: Alejandro Luis Bonavita
 
 Materia: Análisis y Exploración de Datos (2° Cuatrimestre - 2026)
 
-Institución: Instituto Tecnológico Beltrán – Centro de Tecnología e Innovación
+Institución: Instituto Tecnológico Beltrán 
