@@ -52,6 +52,7 @@ El procesamiento de datos siguió una metodología estricta para garantizar que 
 
 ---
 👥 Autores y Créditos
+
 Integrantes: Muiña José Ignacio | Arnejo Suarez Diego Arturo
 
 Profesor: Alejandro Luis Bonavita
