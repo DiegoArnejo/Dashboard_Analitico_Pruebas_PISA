@@ -24,7 +24,7 @@ A continuación se detalla la función de cada uno de los archivos clave incluid
 | `Argentina_recorte.zip` | Dataset extraído del repositorio original de la OCDE que contiene únicamente la muestra filtrada correspondiente a los estudiantes de Argentina. **(No es necesario para el funcionamiento del programa)** |
 | `Argentina_Con_Gestion.csv` | Dataset intermedio utilizado para incorporar la variable sintética de gestión de las escuelas **(Solo usado en la Bitacora)**. |
 | `Bitacora_Procesamiento.ipynb` | Notebook de Jupyter que documenta paso a paso el flujo de trabajo realizado con los datos: filtrado, tratamiento de datos faltantes, renombrado de variables y cálculo de pesos muestrales. |
-| `InformeCon_Storytelling_PISA2025.pdf` | Informe técnico y ejecutivo en formato PDF que relata el "viaje de los datos", interpretando los hallazgos clave con un enfoque de storytelling. |
+| `InformeCon_Storytelling_PISA2025.pdf` | Informe técnico en formato PDF que relata el "viaje de los datos", interpretando los hallazgos clave con un enfoque de storytelling. |
 
 ---
 
