@@ -20,7 +20,7 @@ A continuación se detalla la función de cada uno de los archivos clave incluid
 | Archivo / Carpeta | Descripción |
 | :--- | :--- |
 | `app.py` | Script principal en Python que ejecuta la aplicación interactiva con Streamlit. Incluye la lógica de carga, filtrado, cálculos de promedios ponderados y renderizado de gráficos interactivos con Plotly Express. |
-| `Dataset_procesado.csv` | Conjunto de datos limpio, traducido y enriquecido con variables derivadas (11.092 registros y 12 columnas). Es la fuente de datos que alimenta al dashboard. |
+| `Dataset_procesado.csv` | Conjunto de datos limpio, traducido y enriquecido con variables derivadas (11.092 registros y 12 columnas). **Es la fuente de datos que alimenta al dashboard**. |
 | `Argentina_recorte.zip` | Dataset extraído del repositorio original de la OCDE que contiene únicamente la muestra filtrada correspondiente a los estudiantes de Argentina. **(No es necesario para el funcionamiento del programa)** |
 | `Argentina_Con_Gestion.csv` | Dataset intermedio utilizado para incorporar la variable sintética de gestión de las escuelas **(Solo usado en la Bitacora)**. |
 | `Bitacora_Procesamiento.ipynb` | Notebook de Jupyter que documenta paso a paso el flujo de trabajo realizado con los datos: filtrado, tratamiento de datos faltantes, renombrado de variables y cálculo de pesos muestrales. |
