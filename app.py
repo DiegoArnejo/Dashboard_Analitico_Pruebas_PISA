@@ -268,7 +268,7 @@ with st.expander("📝 Notas metodologicas"):
         "- **Un solo valor plausible:** se usa un unico valor plausible de PISA por materia, por lo que los "
         "resultados son estimaciones puntuales, sin margen de error.\n"
         "- **Estratos:** los estratos (ARG01 a ARG20) no son provincias, equivalen a agrupaciones de escuelas con "   
-        "caracteristicas similares. Algunos tienen muy pocas escuelas; se marcan con * cuando son menos de 10.\n"
+        "caracteristicas similares. Algunos tienen muy pocas escuelas, se marcan con * cuando son menos de 10.\n"
         f"- **Nivel basico:** se toma {UMBRAL_NIVEL2} puntos en matematica como piso de competencia basica "
         "(Nivel 2 de PISA, valor de referencia aproximado).\n"
         "- **Nivel socioeconomico:** los tercios se calcularon sin ajustar por peso y aproximadamente un 11% de los estudiantes "
