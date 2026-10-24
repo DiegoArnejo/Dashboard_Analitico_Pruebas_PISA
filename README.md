@@ -1,4 +1,4 @@
-# 📊 Análisis Explicativo y Interactivo de los Resultados PISA 2025 (Argentina)
+# 📊 Análisis Explicativo e Interactivo de los Resultados PISA 2025 (Argentina)
 
 Este repositorio contiene el proyecto completo de análisis de datos, procesamiento y tablero interactivo (dashboard) desarrollado para la materia **Análisis y Exploración de Datos** del **Instituto Tecnológico Beltrán**. El objetivo principal de este trabajo es analizar los resultados del desempeño de los estudiantes argentinos de 15 años en las pruebas PISA, transformando un conjunto de datos complejo y altamente codificado en información clara, accesible y con rigor estadístico.
 
