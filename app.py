@@ -24,7 +24,7 @@ NOMBRES_TERCIL = {"Bajo": "Menores recursos", "Medio": "Recursos medios", "Alto"
 KPI_AZUL = "#4a90d9"   # indicadores informativos
 KPI_ROJO = "#e5484d"   # indicador de alerta
 KPI_GRIS = "#8a8a8a"   # dato de la muestra
-UMBRAL_NIVEL2 = 420        # solo para el texto; la variable ya esta calculada
+UMBRAL_NIVEL2 = 420        # solo para el texto, la variable ya esta calculada
 
 
 
