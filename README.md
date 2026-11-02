@@ -50,6 +50,13 @@ El procesamiento de datos siguió una metodología estricta para garantizar que 
 * **Estudiantes en Riesgo (Matemática):** El **75.9%** de los alumnos evaluados no alcanza el Nivel 2 de competencia básica.
 * **Brecha Socioeconómica:** Existe una diferencia de **71.0 puntos** entre el tercio con mayores recursos (417.2 pts) y el tercio con menores recursos (346.2 pts), equivalente a más de **3.5 años de escolarización**.
 
+##  Fuente de datos y aviso legal
+
+Los microdatos analizados en este proyecto provienen del estudio internacional **PISA** (*Programme for International Student Assessment*), diseñado y coordinado por la **Organización para la Cooperación y el Desarrollo Económicos (OCDE)**.
+
+> ⚠️ **Aviso de exención de responsabilidad:**  
+> Este repositorio y el dashboard interactivo asociado son el resultado de un proyecto independiente de análisis de datos. La limpieza, estructuración, ponderación de variables y visualizaciones fueron desarrolladas de manera autónoma. Las conclusiones e interpretaciones presentadas corresponden exclusivamente a los autores del proyecto y no representan una postura, aval u homologación oficial de la OCDE ni de ningún organismo gubernamental.
+
 ---
 👥 Autores y Créditos
 
